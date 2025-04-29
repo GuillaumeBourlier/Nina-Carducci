@@ -1,3 +1,9 @@
+# Project - Portfolio Nina Carducci
+
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-3399FF?style=for-the-badge&logo=css3&logoColor=white)
+
 Description
 Ce projet consiste en l'optimisation des performances et du référencement d'un site web pour améliorer son expérience utilisateur et sa visibilité sur les moteurs de recherche.
 
