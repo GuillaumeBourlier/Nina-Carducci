@@ -15,13 +15,6 @@ Ce projet consiste à optimiser un site de photographe existant, "Nina Carducci"
 
 Un audit Lighthouse a été réalisé avant et après les optimisations pour mesurer l'impact des changements.
 
-**Avant optimisation :**
-
-*(Vous pouvez insérer ici une capture d'écran de votre rapport Lighthouse initial)*
-
-**Après optimisation :**
-
-
 
 ## Optimisations et Réalisations
 
